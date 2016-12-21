@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1482336102,,"wq"
+|2,0,1482338518,,"wq"
 :q
 |2,0,1482335531,,"q"
 :w
@@ -108,12 +108,9 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-""0	CHAR	0
-	. /usr/lib/python3.5/site-packages/powerline/bindings/zsh/powerline.zsh
-	
-	
-	
-|3,1,0,0,4,0,1482334834,". /usr/lib/python3.5/site-packages/powerline/bindings/zsh/powerline.zsh","","",""
+""0	LINE	0
+	~/.config/dconf
+|3,1,0,1,1,0,1482338299,"~/.config/dconf"
 "1	LINE	0
 	    <weightunit>kg</weightunit>
 |3,0,1,1,1,0,1482327190,"    <weightunit>kg</weightunit>"
@@ -183,28 +180,38 @@
 |3,0,36,0,1,0,1482327370," "
 
 # File marks:
-'0  7  0  ~/.git/info/exclude
-|4,48,7,0,1482336102,"~/.git/info/exclude"
-'1  75  17  ~/.zshrc
-|4,49,75,17,1482335531,"~/.zshrc"
-'2  1  40  ~/.tmux.conf
-|4,50,1,40,1482335349,"~/.tmux.conf"
-'3  1  0  ~/Git/Datablad/datablad.py
-|4,51,1,0,1482334954,"~/Git/Datablad/datablad.py"
-'4  126  0  ~/.zshrc
-|4,52,126,0,1482334841,"~/.zshrc"
-'5  126  0  ~/.zshrc
-|4,53,126,0,1482334841,"~/.zshrc"
-'6  1  77  ~/.tmux.conf
-|4,54,1,77,1482334832,"~/.tmux.conf"
-'7  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,55,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
-'8  81  40  ~/Git/Datablad/datablad.py
-|4,56,81,40,1482333480,"~/Git/Datablad/datablad.py"
-'9  81  40  ~/Git/Datablad/datablad.py
-|4,57,81,40,1482333480,"~/Git/Datablad/datablad.py"
+'0  8  9  ~/.git/info/exclude
+|4,48,8,9,1482338518,"~/.git/info/exclude"
+'1  7  0  ~/.git/info/exclude
+|4,49,7,0,1482338422,"~/.git/info/exclude"
+'2  7  0  ~/.git/info/exclude
+|4,50,7,0,1482338422,"~/.git/info/exclude"
+'3  7  0  ~/.git/info/exclude
+|4,51,7,0,1482336102,"~/.git/info/exclude"
+'4  7  0  ~/.git/info/exclude
+|4,52,7,0,1482336102,"~/.git/info/exclude"
+'5  75  17  ~/.zshrc
+|4,53,75,17,1482335531,"~/.zshrc"
+'6  1  40  ~/.tmux.conf
+|4,54,1,40,1482335349,"~/.tmux.conf"
+'7  1  0  ~/Git/Datablad/datablad.py
+|4,55,1,0,1482334954,"~/Git/Datablad/datablad.py"
+'8  126  0  ~/.zshrc
+|4,56,126,0,1482334841,"~/.zshrc"
+'9  126  0  ~/.zshrc
+|4,57,126,0,1482334841,"~/.zshrc"
 
 # Jumplist (newest first):
+-'  8  9  ~/.git/info/exclude
+|4,39,8,9,1482338518,"~/.git/info/exclude"
+-'  1  0  ~/.git/info/exclude
+|4,39,1,0,1482338508,"~/.git/info/exclude"
+-'  7  0  ~/.git/info/exclude
+|4,39,7,0,1482338422,"~/.git/info/exclude"
+-'  7  0  ~/.git/info/exclude
+|4,39,7,0,1482338422,"~/.git/info/exclude"
+-'  1  0  ~/.git/info/exclude
+|4,39,1,0,1482338276,"~/.git/info/exclude"
 -'  7  0  ~/.git/info/exclude
 |4,39,7,0,1482336102,"~/.git/info/exclude"
 -'  1  0  ~/.git/info/exclude
@@ -213,6 +220,30 @@
 |4,39,75,17,1482335531,"~/.zshrc"
 -'  75  17  ~/.zshrc
 |4,39,75,17,1482335531,"~/.zshrc"
+-'  75  17  ~/.zshrc
+|4,39,75,17,1482335531,"~/.zshrc"
+-'  75  17  ~/.zshrc
+|4,39,75,17,1482335531,"~/.zshrc"
+-'  75  17  ~/.zshrc
+|4,39,75,17,1482335531,"~/.zshrc"
+-'  75  17  ~/.zshrc
+|4,39,75,17,1482335531,"~/.zshrc"
+-'  75  17  ~/.zshrc
+|4,39,75,17,1482335531,"~/.zshrc"
+-'  75  17  ~/.zshrc
+|4,39,75,17,1482335531,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1482335417,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1482335417,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1482335417,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1482335417,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1482335417,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1482335417,"~/.zshrc"
 -'  1  0  ~/.zshrc
 |4,39,1,0,1482335417,"~/.zshrc"
 -'  1  0  ~/.zshrc
@@ -225,6 +256,78 @@
 |4,39,1,40,1482335349,"~/.tmux.conf"
 -'  1  40  ~/.tmux.conf
 |4,39,1,40,1482335349,"~/.tmux.conf"
+-'  1  40  ~/.tmux.conf
+|4,39,1,40,1482335349,"~/.tmux.conf"
+-'  1  40  ~/.tmux.conf
+|4,39,1,40,1482335349,"~/.tmux.conf"
+-'  1  40  ~/.tmux.conf
+|4,39,1,40,1482335349,"~/.tmux.conf"
+-'  1  40  ~/.tmux.conf
+|4,39,1,40,1482335349,"~/.tmux.conf"
+-'  1  40  ~/.tmux.conf
+|4,39,1,40,1482335349,"~/.tmux.conf"
+-'  1  40  ~/.tmux.conf
+|4,39,1,40,1482335349,"~/.tmux.conf"
+-'  1  40  ~/.tmux.conf
+|4,39,1,40,1482335349,"~/.tmux.conf"
+-'  1  40  ~/.tmux.conf
+|4,39,1,40,1482335349,"~/.tmux.conf"
+-'  1  40  ~/.tmux.conf
+|4,39,1,40,1482335349,"~/.tmux.conf"
+-'  1  40  ~/.tmux.conf
+|4,39,1,40,1482335349,"~/.tmux.conf"
+-'  1  40  ~/.tmux.conf
+|4,39,1,40,1482335349,"~/.tmux.conf"
+-'  1  40  ~/.tmux.conf
+|4,39,1,40,1482335349,"~/.tmux.conf"
+-'  1  0  ~/Git/Datablad/datablad.py
+|4,39,1,0,1482334954,"~/Git/Datablad/datablad.py"
+-'  1  0  ~/Git/Datablad/datablad.py
+|4,39,1,0,1482334954,"~/Git/Datablad/datablad.py"
+-'  1  0  ~/Git/Datablad/datablad.py
+|4,39,1,0,1482334954,"~/Git/Datablad/datablad.py"
+-'  1  0  ~/Git/Datablad/datablad.py
+|4,39,1,0,1482334954,"~/Git/Datablad/datablad.py"
+-'  1  0  ~/Git/Datablad/datablad.py
+|4,39,1,0,1482334954,"~/Git/Datablad/datablad.py"
+-'  1  0  ~/Git/Datablad/datablad.py
+|4,39,1,0,1482334954,"~/Git/Datablad/datablad.py"
+-'  1  0  ~/Git/Datablad/datablad.py
+|4,39,1,0,1482334954,"~/Git/Datablad/datablad.py"
+-'  1  0  ~/Git/Datablad/datablad.py
+|4,39,1,0,1482334954,"~/Git/Datablad/datablad.py"
+-'  1  0  ~/Git/Datablad/datablad.py
+|4,39,1,0,1482334954,"~/Git/Datablad/datablad.py"
+-'  1  0  ~/Git/Datablad/datablad.py
+|4,39,1,0,1482334954,"~/Git/Datablad/datablad.py"
+-'  1  0  ~/Git/Datablad/datablad.py
+|4,39,1,0,1482334954,"~/Git/Datablad/datablad.py"
+-'  1  0  ~/Git/Datablad/datablad.py
+|4,39,1,0,1482334954,"~/Git/Datablad/datablad.py"
+-'  1  0  ~/Git/Datablad/datablad.py
+|4,39,1,0,1482334954,"~/Git/Datablad/datablad.py"
+-'  1  0  ~/Git/Datablad/datablad.py
+|4,39,1,0,1482334954,"~/Git/Datablad/datablad.py"
+-'  1  0  ~/Git/Datablad/datablad.py
+|4,39,1,0,1482334954,"~/Git/Datablad/datablad.py"
+-'  1  0  ~/Git/Datablad/datablad.py
+|4,39,1,0,1482334954,"~/Git/Datablad/datablad.py"
+-'  1  0  ~/Git/Datablad/datablad.py
+|4,39,1,0,1482334954,"~/Git/Datablad/datablad.py"
+-'  1  0  ~/Git/Datablad/datablad.py
+|4,39,1,0,1482334954,"~/Git/Datablad/datablad.py"
+-'  1  0  ~/Git/Datablad/datablad.py
+|4,39,1,0,1482334954,"~/Git/Datablad/datablad.py"
+-'  1  0  ~/Git/Datablad/datablad.py
+|4,39,1,0,1482334954,"~/Git/Datablad/datablad.py"
+-'  1  0  ~/Git/Datablad/datablad.py
+|4,39,1,0,1482334954,"~/Git/Datablad/datablad.py"
+-'  1  0  ~/Git/Datablad/datablad.py
+|4,39,1,0,1482334954,"~/Git/Datablad/datablad.py"
+-'  1  0  ~/Git/Datablad/datablad.py
+|4,39,1,0,1482334954,"~/Git/Datablad/datablad.py"
+-'  1  0  ~/Git/Datablad/datablad.py
+|4,39,1,0,1482334954,"~/Git/Datablad/datablad.py"
 -'  1  0  ~/Git/Datablad/datablad.py
 |4,39,1,0,1482334954,"~/Git/Datablad/datablad.py"
 -'  1  0  ~/Git/Datablad/datablad.py
@@ -261,159 +364,57 @@
 |4,39,126,0,1482334841,"~/.zshrc"
 -'  126  0  ~/.zshrc
 |4,39,126,0,1482334841,"~/.zshrc"
--'  123  0  ~/.zshrc
-|4,39,123,0,1482334837,"~/.zshrc"
--'  123  0  ~/.zshrc
-|4,39,123,0,1482334837,"~/.zshrc"
--'  123  0  ~/.zshrc
-|4,39,123,0,1482334837,"~/.zshrc"
--'  123  0  ~/.zshrc
-|4,39,123,0,1482334837,"~/.zshrc"
--'  123  0  ~/.zshrc
-|4,39,123,0,1482334837,"~/.zshrc"
--'  123  0  ~/.zshrc
-|4,39,123,0,1482334837,"~/.zshrc"
--'  123  0  ~/.zshrc
-|4,39,123,0,1482334837,"~/.zshrc"
--'  123  0  ~/.zshrc
-|4,39,123,0,1482334837,"~/.zshrc"
--'  123  0  ~/.zshrc
-|4,39,123,0,1482334837,"~/.zshrc"
--'  123  0  ~/.zshrc
-|4,39,123,0,1482334837,"~/.zshrc"
--'  1  77  ~/.tmux.conf
-|4,39,1,77,1482334832,"~/.tmux.conf"
--'  1  77  ~/.tmux.conf
-|4,39,1,77,1482334832,"~/.tmux.conf"
--'  1  77  ~/.tmux.conf
-|4,39,1,77,1482334832,"~/.tmux.conf"
--'  1  77  ~/.tmux.conf
-|4,39,1,77,1482334832,"~/.tmux.conf"
--'  1  77  ~/.tmux.conf
-|4,39,1,77,1482334832,"~/.tmux.conf"
--'  1  77  ~/.tmux.conf
-|4,39,1,77,1482334832,"~/.tmux.conf"
--'  1  77  ~/.tmux.conf
-|4,39,1,77,1482334832,"~/.tmux.conf"
--'  1  77  ~/.tmux.conf
-|4,39,1,77,1482334832,"~/.tmux.conf"
--'  1  0  ~/.zshrc
-|4,39,1,0,1482334519,"~/.zshrc"
--'  1  0  ~/.zshrc
-|4,39,1,0,1482334519,"~/.zshrc"
--'  1  0  ~/.zshrc
-|4,39,1,0,1482334519,"~/.zshrc"
--'  1  0  ~/.zshrc
-|4,39,1,0,1482334519,"~/.zshrc"
--'  1  0  ~/.zshrc
-|4,39,1,0,1482334519,"~/.zshrc"
--'  1  0  ~/.zshrc
-|4,39,1,0,1482334519,"~/.zshrc"
--'  1  0  ~/.zshrc
-|4,39,1,0,1482334519,"~/.zshrc"
--'  1  0  ~/.zshrc
-|4,39,1,0,1482334519,"~/.zshrc"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
--'  1  0  ~/Git/Datablad/10303 - Speck Tirolese.html
-|4,39,1,0,1482333515,"~/Git/Datablad/10303 - Speck Tirolese.html"
+-'  126  0  ~/.zshrc
+|4,39,126,0,1482334841,"~/.zshrc"
+-'  126  0  ~/.zshrc
+|4,39,126,0,1482334841,"~/.zshrc"
+-'  126  0  ~/.zshrc
+|4,39,126,0,1482334841,"~/.zshrc"
+-'  126  0  ~/.zshrc
+|4,39,126,0,1482334841,"~/.zshrc"
+-'  126  0  ~/.zshrc
+|4,39,126,0,1482334841,"~/.zshrc"
+-'  126  0  ~/.zshrc
+|4,39,126,0,1482334841,"~/.zshrc"
+-'  126  0  ~/.zshrc
+|4,39,126,0,1482334841,"~/.zshrc"
+-'  126  0  ~/.zshrc
+|4,39,126,0,1482334841,"~/.zshrc"
+-'  126  0  ~/.zshrc
+|4,39,126,0,1482334841,"~/.zshrc"
+-'  126  0  ~/.zshrc
+|4,39,126,0,1482334841,"~/.zshrc"
+-'  126  0  ~/.zshrc
+|4,39,126,0,1482334841,"~/.zshrc"
+-'  126  0  ~/.zshrc
+|4,39,126,0,1482334841,"~/.zshrc"
+-'  126  0  ~/.zshrc
+|4,39,126,0,1482334841,"~/.zshrc"
+-'  126  0  ~/.zshrc
+|4,39,126,0,1482334841,"~/.zshrc"
+-'  126  0  ~/.zshrc
+|4,39,126,0,1482334841,"~/.zshrc"
+-'  126  0  ~/.zshrc
+|4,39,126,0,1482334841,"~/.zshrc"
+-'  126  0  ~/.zshrc
+|4,39,126,0,1482334841,"~/.zshrc"
+-'  126  0  ~/.zshrc
+|4,39,126,0,1482334841,"~/.zshrc"
+-'  126  0  ~/.zshrc
+|4,39,126,0,1482334841,"~/.zshrc"
 
 # History of marks within files (newest to oldest):
 
 > ~/.git/info/exclude
-	*	1482336100	0
-	"	7	0
-	^	7	1
-	.	7	0
-	+	7	0
+	*	1482338516	0
+	"	8	9
+	^	8	10
+	.	8	9
+	+	7	1
+	+	7	16
+	+	7	35
+	+	8	0
+	+	8	9
 
 > ~/.zshrc
 	*	1482335529	0
