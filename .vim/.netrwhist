@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/daniele/Git/Datablad'
+let g:netrw_dirhist_2='/home/daniele/Git'
+let g:netrw_dirhist_3='/home/daniele/Git/Datablad'
+let g:netrw_dirhist_4='/home/daniele/Git/Datablad/__pycache__'
+let g:netrw_dirhist_5='/home/daniele/Git/Datablad'
+let g:netrw_dirhist_6='/home/daniele/Git'
+let g:netrw_dirhist_7='/home/daniele/Git/Datablad'

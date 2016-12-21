@@ -1,0 +1,14 @@
+URxvt*font:               xft:Terminus:pixelsize=12:antialais=true:hinting=true, -xos4-terminesspowerline-medium-r-normal--12-120-72-72-c-60-iso10646-1
+URxvt*geometry:           112x22 
+URxvt*urlLauncher:        firefox  
+URxvt*scrollBar:          false
+URxvt*scrollBar_right:    true
+URxvt*scrollColor:        #000000
+URxvt*borderColor:        #151515
+URxvt*colorBD:            #ffffff
+URxvt*cursorColor:        #ff8939
+URxvt*cursorColor2:       #151515
+URxvt.keysym.Home: \033[1~
+URxvt.keysym.End: \033[4~
+URxvt.keysym.KP_Home: \033[1~
+URxvt.keysym.KP_End:  \033[4~

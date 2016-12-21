@@ -1,0 +1,43 @@
+open_with vim 
+co
+paste 
+rename Downloads
+unzip
+open_with ex
+open_with unzip
+delete 
+extract
+ex
+search 575
+search 500
+search m575
+search mfp
+copy 
+name
+rename ranger
+rename parcellite
+ 
+rename config
+commands
+rename
+rename rdp-f.desktop
+sudo rename rdp-f.desktop
+open_with sudo vim
+cd 
+mkdir /chroot
+rename Chroot
+open_with 0
+copy
+paste
+rename filezilla
+shell 
+open_with 1
+search spin
+shell udo mv PowerlineSymbols.otf ~/.fonts/
+open_with 
+sudo rm -R archbuild
+help
+delete
+open_with
+open_with vim
+
